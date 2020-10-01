@@ -28,7 +28,7 @@ We're setting up this repo to support language translations as soon as folks ste
 
 ## Versioning
 
-When we are ready to tag a new version of the docs we can run the docusaurus scripts.
+When you are ready to tag a new version of the docs you can run the docusaurus scripts.
 
 ```
 yarn run docusaurus docs:version 1.1.0
